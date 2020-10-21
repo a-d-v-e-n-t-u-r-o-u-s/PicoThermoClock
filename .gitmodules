@@ -1,3 +1,6 @@
 [submodule "hardware"]
 	path = hardware
 	url = git@github.com:a-d-v-e-n-t-u-r-o-u-s/PicoThermoClockHw.git
+[submodule "software"]
+	path = software
+	url = git@github.com:a-d-v-e-n-t-u-r-o-u-s/PicoThermoClockSw.git
